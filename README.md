@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there,I'm Ali Kose  👋
 
-<!--
-**koseali/koseali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" height="290" src="https://github.com/koseali/koseali/blob/main/Ali_Kose.gif" />
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my projects.
+- 💻 I'm a Student and Developer
+- 🌱 I’m currently learning mobile development and machine learning
+- :pencil2: Swift/ Java/ Python / VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub last commit](https://img.shields.io/github/last-commit/koseali/koseali)
+![pv](https://komarev.com/ghpvc/?username=koseali)
+![Years Badge](https://badges.pufler.dev/years/koseali)
+![Repos Badge](https://badges.pufler.dev/repos/koseali)
+![code](https://img.shields.io/badge/code%20quality-A++-success)
+
+<br/>
+
+## :mailbox: How to reach me :
+[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:kosealii@icloud.com)
+[<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/koseali/)
+
+[<img src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://instagram.com/kosealii)
+[<img src="https://img.icons8.com/bubbles/50/000000/spotify.png"/>](https://open.spotify.com/user/kosealii-tr)
+
+
