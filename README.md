@@ -1,7 +1,7 @@
 ### Hi there, I'm Ali Kose <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
 <img align="right" height="290" src="https://github.com/koseali/koseali/blob/main/Ali%20Kose_1.gif" />
 
-- 🔭 I’m currently working on my projects.
+- 🔭 I’m currently working on mobile apps.
 - 💻 I'm a Student and Developer
 - 🌱 I’m currently learning mobile development and machine learning
 - :pencil2: Swift/ Java/ Python / VS Code
