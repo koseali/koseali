@@ -1,5 +1,5 @@
 ### Hi there, I'm Ali Kose <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
-<img align="top" height="290" src="https://github.com/koseali/koseali/blob/main/Ali_Kose.gif" />
+<img align="top" height="290" src="https://github.com/koseali/koseali/blob/main/Ali_Kose_1.gif" />
 
 - 🔭 I’m currently working on my projects.
 - 💻 I'm a Student and Developer
