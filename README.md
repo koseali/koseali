@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on mobile apps.
 - 💻 I'm a Student and Developer
 - 🌱 I’m currently learning mobile development and machine learning
-- :pencil2: Swift/ Java/ Python / VS Code
+- 👨🏼‍💻 Swift/ Java/ Python / VS Code
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/koseali/koseali)
 ![pv](https://komarev.com/ghpvc/?username=koseali)
