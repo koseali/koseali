@@ -2,8 +2,8 @@
 <img align="right" height="290" src="https://github.com/koseali/koseali/blob/main/Ali%20Kose_1.gif" />
 
 - 🔭 I’m currently working on mobile apps and machine learning.
-- 💻 I'm a iOS Developer
-- 🌱 I’m currently learning mobile development and machine learning
+- 💻 I'm iOS Developer
+- 🌱 I’m currently learning mobile development.
 - <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/man-technologist_1f468-200d-1f4bb.png" width="40px" /> Swift/ JavaScript / Python / VS Code. 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/koseali/koseali)
