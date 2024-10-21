@@ -2,7 +2,7 @@
 <img align="right" height="290" src="https://github.com/koseali/koseali/blob/main/Ali%20Kose_1.gif" />
 
 - 💻 iOS Developer
-- <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/man-technologist_1f468-200d-1f4bb.png" width="40px" /> Swift/ JavaScript / Python / VS Code. 
+- <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/man-technologist_1f468-200d-1f4bb.png" width="40px" />  Objective-C / Swift/
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/koseali/koseali)
 ![pv](https://komarev.com/ghpvc/?username=koseali)
